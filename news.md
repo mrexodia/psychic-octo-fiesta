@@ -1,3 +1,9 @@
+---
+layout: page
+title: News
+header: News
+---
+
 ## 26-04-2016
 
 # This is a news title
